@@ -14,3 +14,7 @@ Test cases are automated considering following levels:
 Functional Level: Improves feature stability but may not reflect end-user experience with the app
 
 User Interface Level: Improves user experience but requires frequent update as api(s)/libraries change often
+
+# Task3
+
+Using Rest-Assured library, I've written automated test cases for REST API endpoints. These test cases primarily focusses on correct functionality of endpoints.
